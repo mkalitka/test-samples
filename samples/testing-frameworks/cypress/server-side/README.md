@@ -1,7 +1,7 @@
 # Intro
 
 This folder contains a sample Cypress server side test case for desktop browsers.
-This test case was taken from https://github.com/cypress-io/cypress-example-kitchensink.
+This test case was taken from https://github.com/cypress-io/cypress-example-kitchensink/tree/v4.0.0
 To read more about server Cypress runs in BitBar Cloud, check our online documentation from https://support.smartbear.com/bitbar/docs/en/web-app-tests/automated-testing/cypress.html
 
 ## Folder content
